@@ -11,7 +11,7 @@ const BlogIndex = ({ data, location }) => {
 
   if (posts.length === 0) {
     return (
-      <Layout location={location} title={siteTitle}>
+      <Layout location={location} title="Madingnya Rizqi 😎">
         <SEO title="All posts" />
         <Bio />
         <p>
