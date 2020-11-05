@@ -11,7 +11,7 @@ const BlogIndex = ({ data, location }) => {
 
   if (posts.length === 0) {
     return (
-      <Layout location={location} title="Madingnya Rizqi 😎">
+      <Layout location={location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
         <p>
@@ -24,7 +24,7 @@ const BlogIndex = ({ data, location }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title="Madingnya Rizqi 😎">
       <SEO title="All posts" />
       {/* <Bio /> */}
       <ol style={{ listStyle: `none` }}>
