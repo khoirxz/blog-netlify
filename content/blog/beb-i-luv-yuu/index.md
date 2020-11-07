@@ -3,8 +3,6 @@ title: '"BEB... I LUV YUU"'
 date: 2020-11-07T16:10:23.315Z
 description: mendengarkan suaramu yang membuatku tenang
 ---
-
-
 **7/11/2020**
 
 **Pertamakalinya keluar rumah bawa perempuan.**
@@ -13,5 +11,9 @@ ngak ngerasain apa-apa selain seneng 🤣🤣 sampe lupa kalo dicariin ibu, bapa
 ![Jembatan warna-warni](photo_2020-11-07_23-15-50.jpg "Jembatan cinta")
 
 semoga bisa begini selamanya 🤣🥰
+
+![Pulang](whatsapp-image-2020-11-07-at-23.46.31.jpeg "Pulang dan Kangen")
+
+i already miss u beb
 
 💖
