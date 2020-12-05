@@ -1,0 +1,34 @@
+article {
+  width: 78%;
+  margin: auto;
+}
+
+h2 {
+  font-family: var(--font-heading);
+}
+
+header h1 {
+  font-weight: var(--fontWeight-black);
+  font-size: var(--fontSize-6);
+  color: var(--color-heading-black);
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: var(--fontSize-2);
+  font-family: var(--font-heading);
+  margin-top: 0px;
+}
+
+p {
+  line-height: var(--lineHeight-relaxed);
+  --baseline-multiplier: 0.179;
+  --x-height-multiplier: 0.35;
+  margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
+}
+
+hr {
+  background: var(--color-accent);
+  height: 1px;
+  border: 0;
+}
